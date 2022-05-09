@@ -109,8 +109,7 @@
 			children = (
 				2F4FAEE92828D1A20050CC03 /* AppDelegate.h */,
 				2F4FAEEA2828D1A20050CC03 /* AppDelegate.m */,
-				2F4FAF1E2828D1C90050CC03 /* CJDSnapShot.h */,
-				2F4FAF1F2828D1C90050CC03 /* CJDSnapShot.m */,
+				2F4FAF212828D4970050CC03 /* SnapShot */,
 				2F4FAEEC2828D1A20050CC03 /* SceneDelegate.h */,
 				2F4FAEED2828D1A20050CC03 /* SceneDelegate.m */,
 				2F4FAEEF2828D1A20050CC03 /* ViewController.h */,
@@ -140,6 +139,15 @@
 			);
 			path = CJDSnapShotUITests;
 			sourceTree = "<group>";
+		};
+		2F4FAF212828D4970050CC03 /* SnapShot */ = {
+			isa = PBXGroup;
+			children = (
+				2F4FAF1E2828D1C90050CC03 /* CJDSnapShot.h */,
+				2F4FAF1F2828D1C90050CC03 /* CJDSnapShot.m */,
+			);
+			path = SnapShot;
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
